@@ -51,12 +51,4 @@ To add new solutions, follow these steps:
 
 Feel free to fork this repository and contribute by submitting a pull request. Please ensure your solutions are correct and well-documented.
 
-## License
-
-This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
-## Contact
-
-For any questions or suggestions, please open an issue or contact me directly.
-
 Happy Coding!
