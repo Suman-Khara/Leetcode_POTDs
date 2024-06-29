@@ -1,3 +1,7 @@
+// 2192. All Ancestors of a Node in a Directed Acyclic Graph
+// https://leetcode.com/problems/all-ancestors-of-a-node-in-a-directed-acyclic-graph/description/
+// Runtime beat: 96.60%, memory beat: 87.16%
+
 #include <bits/stdc++.h>
 using namespace std;
 
