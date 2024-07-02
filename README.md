@@ -35,7 +35,7 @@ To add new solutions, follow these steps:
 4. **Stage and commit your changes**:
     ```sh
     git add .
-    git commit -m "Added solution for [DATE]"
+    git commit -m "POTD - [DATE]"
     ```
 5. **Push your changes** to the repository:
     ```sh
