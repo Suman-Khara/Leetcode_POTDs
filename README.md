@@ -4,19 +4,19 @@ Welcome to the **Leetcode Problem of the Day (POTD)** solutions repository. This
 
 ## Folder Structure
 
-The folders are named according to the month and year in the format `YYYY-MM Month`. For example:
-- `2024-06 June`
-- `2024-07 July`
-- `2024-08 August`
+The folders are named according to the month and year in the format `YYYY-MM`. For example:
+- `2024-06`
+- `2024-07`
+- `2024-08`
 
 ### Example
 ```
 Leetcode_POTDs/
-├── 2024-06 June/
+├── 2024-06/
 │   ├── 29.cpp
 │   ├── 30.java
 │   └── ...
-├── 2024-07 July/
+├── 2024-07/
 │   ├── 01.cpp
 │   └── ...
 └── README.md
