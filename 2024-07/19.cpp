@@ -14,7 +14,7 @@ using namespace std;
 class Solution
 {
 public:
-    vector<int> findLuckyNumbers(vector<vector<int>> &matrix)
+    vector<int> luckyNumbers(vector<vector<int>> &matrix)
     {
         int rows = matrix.size(), cols = matrix[0].size();
         vector<int> minRow(rows, INT_MAX), maxCol(cols, INT_MIN), luckyNumbers;
